@@ -1,8 +1,8 @@
-\# Healthcare Data Analysis \& Dashboard – Excel
+# Healthcare Data Analysis & Dashboard – Excel
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,33 +14,33 @@ An interactive Excel dashboard was developed to transform raw healthcare data in
 
 
 
-\## Dashboard Preview
+## Dashboard Preview
 
 
 
-!\[Healthcare Dashboard](Healthcare\_Dashboard.png)
+[Healthcare Dashboard](Healthcare_Dashboard.png)
 
 
 
-\## Project Objectives
+## Project Objectives
 
 
 
-\* Analyse patient demographics and admission trends.
+* Analyse patient demographics and admission trends.
 
-\* Understand billing patterns and average healthcare expenses.
+* Understand billing patterns and average healthcare expenses.
 
-\* Examine patient distribution across medical conditions.
+* Examine patient distribution across medical conditions.
 
-\* Analyse hospital admissions and length of stay.
+* Analyse hospital admissions and length of stay.
 
-\* Evaluate abnormal medical test results.
+* Evaluate abnormal medical test results.
 
-\* Present key findings through an interactive dashboard.
+* Present key findings through an interactive dashboard.
 
 
 
-\## Dataset Overview
+## Dataset Overview
 
 
 
@@ -52,13 +52,13 @@ An interactive Excel dashboard was developed to transform raw healthcare data in
 
 | Data Period   | May 2019 – May 2024          |
 
-| Data Type     | Healthcare / Patient Records |
+| Data Type     | Healthcare  Patient Records |
 
 | Tool Used     | Microsoft Excel              |
 
 
 
-\## Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 
 
@@ -78,7 +78,7 @@ An interactive Excel dashboard was developed to transform raw healthcare data in
 
 
 
-\## Workbook Structure
+## Workbook Structure
 
 
 
@@ -86,77 +86,77 @@ The Excel workbook contains four main sheets:
 
 
 
-1\. \*\*Raw\_Dataset:\*\* Original healthcare dataset.
+1. **Raw_Dataset:** Original healthcare dataset.
 
-2\. \*\*Clean\_Dataset:\*\* Dataset prepared for analysis.
+2. **Clean_Dataset:** Dataset prepared for analysis.
 
-3\. \*\*Pivot table:\*\* Pivot-based analysis used to summarise the data.
+3. **Pivot table:** Pivot-based analysis used to summarise the data.
 
-4\. \*\*Dashboard:\*\* Visual representation of important KPIs and analytical findings.
-
-
-
-\## Tools \& Skills Used
+4. **Dashboard:** Visual representation of important KPIs and analytical findings.
 
 
 
-\* Microsoft Excel
-
-\* Data Cleaning and Preparation
-
-\* Pivot Tables
-
-\* Data Analysis
-
-\* KPI Development
-
-\* Data Visualization
-
-\* Dashboard Design
+## Tools & Skills Used
 
 
 
-\## Key Observations
+* Microsoft Excel
+
+* Data Cleaning and Preparation
+
+* Pivot Tables
+
+* Data Analysis
+
+* KPI Development
+
+* Data Visualization
+
+* Dashboard Design
 
 
 
-\* The dataset contains 55,500 patient records covering five years.
-
-\* Total healthcare billing exceeded $1.21 billion.
-
-\* The average patient length of stay was approximately 18 days.
-
-\* Approximately half of the recorded test results were classified as abnormal.
+## Key Observations
 
 
 
-\## Files Included
+* The dataset contains 55,500 patient records covering five years.
+
+* Total healthcare billing exceeded $1.21 billion.
+
+* The average patient length of stay was approximately 18 days.
+
+* Approximately half of the recorded test results were classified as abnormal.
 
 
 
-\* `Healthcare\_Analysis.xlsx` – Complete Excel workbook containing the dataset, analysis, Pivot Tables, and dashboard.
-
-\* `Healthcare\_Dashboard.png` – Dashboard preview.
+## Files Included
 
 
 
-\## How to Explore the Project
+* `Healthcare_Analysis.xlsx` – Complete Excel workbook containing the dataset, analysis, Pivot Tables, and dashboard.
+
+* `Healthcare_Dashboard.png` – Dashboard preview.
 
 
 
-1\. Download the Excel workbook.
-
-2\. Open it in Microsoft Excel.
-
-3\. Explore the Raw\_Dataset and Clean\_Dataset sheets.
-
-4\. Review the Pivot table sheet to understand the analysis.
-
-5\. Open the Dashboard sheet to explore the visual summary.
+## How to Explore the Project
 
 
 
-\## Conclusion
+1. Download the Excel workbook.
+
+2. Open it in Microsoft Excel.
+
+3. Explore the Raw_Dataset and Clean_Dataset sheets.
+
+4. Review the Pivot table sheet to understand the analysis.
+
+5. Open the Dashboard sheet to explore the visual summary.
+
+
+
+## Conclusion
 
 
 
